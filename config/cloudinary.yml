@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dj84grc4z
+  api_key: '671984956526664'
+  api_secret: uXob2i3NS_DJa7bVzrP_uhNIv0I
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dj84grc4z
+  api_key: '671984956526664'
+  api_secret: uXob2i3NS_DJa7bVzrP_uhNIv0I
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dj84grc4z
+  api_key: '671984956526664'
+  api_secret: uXob2i3NS_DJa7bVzrP_uhNIv0I
+  enhance_image_tag: true
+  static_image_support: false
